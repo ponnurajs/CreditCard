@@ -1,0 +1,37 @@
+
+
+.header-spacer {
+    flex: 1 1 auto;
+  }
+
+.header-toolbar{
+    background-color: #3c4852;
+    color: white;
+}
+
+.appnamespace{
+    padding-left: 20px;
+}
+
+.content-container {
+    width: auto;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid #555;
+    /* The background property is added to clearly distinguish the borders between drawer and main
+       content */
+    background: #eee;
+  }
+
+.sidebar{
+    background-color: #f5f5f5;
+    height: 100%;
+    width: 250px;
+}
+
+.content-container{
+    height: 100%;
+    border: 1px solid #ddd;
+    min-height: 100vh;
+}
+  
