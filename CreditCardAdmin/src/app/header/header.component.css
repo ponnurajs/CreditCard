@@ -1,3 +1,10 @@
 .card-margin{
     margin: 20px;
 }
+
+.header-card{
+    margin: 20px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
